@@ -1,0 +1,20 @@
+*{
+    margin-left: 30px; 
+    margin-top: 6PX;
+    margin-bottom: 6PX;  
+}
+
+body{
+    background-color: skyblue;
+    color: black;
+}
+
+button:hover{
+    background-color: brown;
+    color: white;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
